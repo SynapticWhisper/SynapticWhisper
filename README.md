@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+### My LeetCode badges:
+<img src="https://github.com/SynapticWhisper/SynapticWhisper/assets/145215780/6080d12c-20e1-459c-815c-675182b5066c" width=150>
+<img src="https://github.com/SynapticWhisper/SynapticWhisper/assets/145215780/20462f6a-fc9c-42bb-ac41-62679b091b29" width=150>
+
 <!--
 **SynapticWhisper/SynapticWhisper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
