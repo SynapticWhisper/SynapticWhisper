@@ -11,7 +11,7 @@ I'm Vladislav, a passionate developer working remotely. Welcome to my GitHub pro
 ### [LeetCode_Solutions](https://github.com/SynapticWhisper/LeetCode_Solutions)
 Solutions to LeetCode problems in Python.
 
-### [ToDo_web](https://github.com/SynapticWhisper/ToDo_web)
+### [ToDo-html-template](https://github.com/SynapticWhisper/ToDo-html-template)
 Templates for task management, built with HTML and CSS.
 
 ### [AdminPanel-v.1.0](https://github.com/SynapticWhisper/AdminPanel-v.1.0)
