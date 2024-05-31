@@ -30,7 +30,6 @@ A tool for finding duplicate files using Python (PySide6).
 
 ## 📫 Contact
 - [📬 Telegram](https://t.me/eroinhero)
-- [✉️ Email](vochernobrivets@gmail.com)
 
 
 <!--
