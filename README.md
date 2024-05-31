@@ -5,7 +5,7 @@ I'm Vladislav, a passionate developer working remotely. Welcome to my GitHub pro
 ## 🛠 Tech Stack
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SynapticWhisper&layout=compact&theme=dark)](https://github.com/SynapticWhisper/github-readme-stats)
 - **Programming Languages**: Python, CSS, JS
-- **Tools and Technologies**: FastAPI, PostgreSQL, Redis, Celery, Git, GitHub, HTML 
+- **Tools and Technologies**: FastAPI, PyQt5/PySide6, PostgreSQL, Redis, Celery, Git, GitHub, HTML
 
 
 ## 📂 Repositories
