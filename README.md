@@ -3,8 +3,10 @@
 I'm Vladislav, a passionate developer working remotely. Welcome to my GitHub profile!
 
 ## 🛠 Tech Stack
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SynapticWhisper&layout=compact&theme=dark)](https://github.com/SynapticWhisper/github-readme-stats)
 - **Programming Languages**: Python, CSS, JS
 - **Tools and Technologies**: FastAPI, PostgreSQL, Redis, Celery, Git, GitHub, HTML 
+
 
 ## 📂 Repositories
 
@@ -23,13 +25,17 @@ A tool for finding duplicate files using Python (PySide6).
 ## 🌟 Achievements
 - Active participant on LeetCode, check out my [LeetCode badges](https://leetcode.com/SynapticWhisper).
 
+
 ### 🎖 My badges:
-<img src="https://github.com/SynapticWhisper/SynapticWhisper/assets/145215780/6080d12c-20e1-459c-815c-675182b5066c" width=150>
+
+[![SynapticWhisper's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=SynapticWhisper&theme=dark)](https://github.com/SynapticWhisper/leetcode-stats)
 <img src="https://github.com/SynapticWhisper/SynapticWhisper/assets/145215780/20462f6a-fc9c-42bb-ac41-62679b091b29" width=150>
+<img src="https://github.com/SynapticWhisper/SynapticWhisper/assets/145215780/6080d12c-20e1-459c-815c-675182b5066c" width=150>
 
 
 ## 📫 Contact
 - [📬 Telegram](https://t.me/eroinhero)
+- <a href="mailto:vochernobrivets@gmail.com">✉️ Email</a>
 
 
 <!--
