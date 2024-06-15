@@ -11,12 +11,13 @@ I'm Vladislav, a passionate developer working remotely. Welcome to my GitHub pro
 
 ### [LeetCode_Solutions](https://github.com/SynapticWhisper/LeetCode_Solutions)
 Solutions to LeetCode problems in Python.
-
+<!--
 ### [ToDo-html-template](https://github.com/SynapticWhisper/ToDo-html-template)
 Templates for task management, built with HTML and CSS.
 
 ### [AdminPanel-v.1.0](https://github.com/SynapticWhisper/AdminPanel-v.1.0)
 An admin panel implemented in Python (FastAPI).
+-->
 
 ### [duplicate-file-finder](https://github.com/SynapticWhisper/duplicate-file-finder)
 A tool for finding duplicate files using Python (PySide6).
