@@ -9,6 +9,9 @@ I'm Vladislav, a passionate developer working remotely. Welcome to my GitHub pro
 
 ## 📂 Repositories
 
+### [AuthService_2FA](https://github.com/SynapticWhisper/AuthService_2FA)
+FastAPI Auth Service with two-factor authentication (2FA) via email and uses JinjaTemplates for rendering.
+
 ### [LeetCode_Solutions](https://github.com/SynapticWhisper/LeetCode_Solutions)
 Solutions to LeetCode problems in Python.
 <!--
