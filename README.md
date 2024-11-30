@@ -33,12 +33,11 @@ A tool for finding duplicate files using Python (PySide6).
 <!--
 [![SynapticWhisper's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=SynapticWhisper&theme=dark)](https://github.com/SynapticWhisper/leetcode-stats)
 -->
-<img src="https://github.com/SynapticWhisper/SynapticWhisper/assets/145215780/20462f6a-fc9c-42bb-ac41-62679b091b29" width=150>
-<img src="https://github.com/SynapticWhisper/SynapticWhisper/assets/145215780/6080d12c-20e1-459c-815c-675182b5066c" width=150>
+<img src="https://leetcode.com/static/images/badges/2024/gif/2024-03.gif" width=100><img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" width=100><img src="https://assets.leetcode.com/static_assets/marketing/2024-100-new.gif" width=100>
 
 
 ## 📫 Contact
-- [📬 Telegram](https://t.me/eroinhero)
+- [📬 Telegram](https://t.me/geeksukon)
 - <a href="mailto:vochernobrivets@gmail.com">✉️ Email</a>
 
 
